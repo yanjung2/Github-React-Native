@@ -1,2 +1,1 @@
-# fa19-cs242-assignment3
-
+A mobile GitHub application based on React Native.
